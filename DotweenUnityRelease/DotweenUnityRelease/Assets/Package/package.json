@@ -1,0 +1,21 @@
+{
+  "name": "com.demigiant.dotween",
+  "displayName": "Dotween",
+  "description": "Dotween",
+  "version": "1.0.2",
+  "unity": "2021.3",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WolffunGame/dotween.git"
+  },
+  "author": {
+    "name": "Daniele Giardini"
+  },
+  "dependencies": {
+  },
+  "keywords": [
+  ],
+  "release": {
+  }
+}

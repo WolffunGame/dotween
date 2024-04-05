@@ -7,6 +7,9 @@ _DOTween.Assembly/*.user
 _DOTween.Assembly/.gitignore
 _DOTween.Assembly/.git
 
+DotweenUnityRelease/DotweenUnityRelease/Library/*
+DotweenUnityRelease/DotweenUnityRelease/Logs/*
+
 ExternalPluginsTestsAndExamples*
 *.Unity*/_ReSharper*
 *.Unity*/Library
